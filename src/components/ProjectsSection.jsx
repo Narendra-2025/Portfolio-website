@@ -9,7 +9,7 @@ const projects = [
     image: "/projects/travel-maniac.png", // Replace with your actual image path
     tags: ["React", "TailwindCSS", "Vite"],
     demoUrl: "https://travel-maniac.vercel.app/",
-    githubUrl: "https://github.com/Narendra-2025/TravelManiac",
+    githubUrl: "https://github.com/Narendra-2025/Travel-Maniac",
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const projects = [
     image: "/projects/interior-design.png", // Replace with your actual image path
     tags: ["React", "TailwindCSS"],
     demoUrl: "https://interior-design-zeta-three.vercel.app/",
-    githubUrl: "https://github.com/Narendra-2025/InteriorDesignProject",
+    githubUrl: "https://github.com/Narendra-2025/Interior-Design",
   },
 ];
 
