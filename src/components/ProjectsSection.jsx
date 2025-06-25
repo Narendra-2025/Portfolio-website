@@ -18,8 +18,8 @@ const projects = [
       "Feature-rich social media app for image sharing with Google Auth, CRUD operations, likes, comments, and advanced search functionality.",
     image: "/projects/shareapp.png", // Replace with your actual image path
     tags: ["React", "TailwindCSS", "Sanity.io"],
-    demoUrl: "https://github.com/Narendra-2025/Shareapp", // Update if you have a live demo
-    githubUrl: "https://shareapp006.netlify.app/",
+    demoUrl: "https://shareapp006.netlify.app/", // Update if you have a live demo
+    githubUrl: "https://github.com/Narendra-2025/Shareapp",
   },
   {
     id: 3,
