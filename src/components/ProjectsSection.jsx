@@ -19,7 +19,7 @@ const projects = [
     image: "/projects/shareapp.png", // Replace with your actual image path
     tags: ["React", "TailwindCSS", "Sanity.io"],
     demoUrl: "https://github.com/Narendra-2025/Shareapp", // Update if you have a live demo
-    githubUrl: "https://github.com/Narendra-2025/Shareapp",
+    githubUrl: "https://shareapp006.netlify.app/",
   },
   {
     id: 3,
