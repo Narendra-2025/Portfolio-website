@@ -3,6 +3,16 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "GreenCart Project",
+    description:
+      "An online grocery store platform where users can browse, search, and purchase products with a clean UI and responsive design.",
+    image: "/projects/Green-Cart.png", // Replace with your actual image path
+    tags: ["React", "Node.js", "MongoDB", "Express"],
+    demoUrl: "https://green-cart.vercel.app/", // Replace with your actual deployed link if different
+    githubUrl: "https://github.com/Narendra-2025/GreenCart",
+  },
+  {
+    id: 2,
     title: "Travel Maniac",
     description:
       "An itinerary website built with React.js that helps users discover and plan travel destinations tailored to their preferences.",
@@ -12,7 +22,7 @@ const projects = [
     githubUrl: "https://github.com/Narendra-2025/Travel-Maniac",
   },
   {
-    id: 2,
+    id: 3,
     title: "Shareapp - Social Media Platform",
     description:
       "Feature-rich social media app for image sharing with Google Auth, CRUD operations, likes, comments, and advanced search functionality.",
@@ -20,17 +30,7 @@ const projects = [
     tags: ["React", "TailwindCSS", "Sanity.io"],
     demoUrl: "https://shareapp006.netlify.app/", // Update if you have a live demo
     githubUrl: "https://github.com/Narendra-2025/Shareapp",
-  },
-  {
-    id: 3,
-    title: "Interior Design Project",
-    description:
-      "Interactive platform allowing users to explore interior design layouts and styles with real-time previews and responsive design.",
-    image: "/projects/interior-design.png", // Replace with your actual image path
-    tags: ["React", "TailwindCSS"],
-    demoUrl: "https://interior-design-zeta-three.vercel.app/",
-    githubUrl: "https://github.com/Narendra-2025/Interior-Design",
-  },
+  }
 ];
 
 export const ProjectsSection = () => {

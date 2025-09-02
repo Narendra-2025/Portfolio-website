@@ -15,9 +15,9 @@ const skills = [
   { name: "RESTful API", level: 70, category: "backend" },
 
   // Programming Languages
-  { name: "C++", level: 70, category: "programming" },
+  { name: "C++", level: 85, category: "programming" },
   { name: "Python", level: 65, category: "programming" },
-  { name: "SQL", level: 60, category: "programming" },
+  { name: "SQL", level: 80, category: "programming" },
 
   // Tools
   { name: "VS Code", level: 90, category: "tools" },
